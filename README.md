@@ -7,33 +7,10 @@ I'm a **full-stack developer** skilled in building scalable, efficient, and user
 ---
 
 ### 🌟 Skills & Technologies:
-- **Frontend**: React, Tailwind CSS, JavaScript/TypeScript  
-- **Backend**: Firebase, MySQL, MongoDB, Node.js  
-- **Tools**: Git, Vite, VS Code  
-- **Interests**: UI/UX design, performance optimization, and integrating cutting-edge APIs  
-
----
-
-### 🔭 I’m currently working on  
-Exploring new tools and technologies to build innovative solutions that make life easier and more efficient.
-
-### 👯 I’m looking to collaborate on  
-Open-source projects or impactful web development initiatives.
-
-### 🤝 I’m looking for help with  
-Deepening my expertise in AI, machine learning, and advanced backend architectures.
-
-### 🌱 I’m currently learning  
-AI/ML fundamentals, system optimization techniques, and Next.js.
-
-### 💬 Ask me about  
-Web development, backend design, and creating seamless user experiences.
-
-### 🎯 Goals:
-- Enhance my backend skills to complement my full-stack development expertise.  
-- Contribute to impactful open-source projects.  
-- Gain in-depth knowledge and expertise in **AI and machine learning**.  
-- Master **Next.js** and build advanced web applications.  
+- **Frontend**: React, Tailwind CSS, JavaScript/TypeScript ... 
+- **Backend**: Firebase, MySQL, MongoDB, Node.js ...
+- **Tools**: Git, Vite, VS Code ...
+- **Interests**: UI/UX design, performance optimization, and integrating cutting-edge APIs 
 
 ---
 
@@ -364,9 +341,6 @@ Web development, backend design, and creating seamless user experiences.
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yohannes-Misganaw&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yohannes-Misganaw&theme=tokyonight&hide_border=false" alt="Streak Stats" />
 </div>
