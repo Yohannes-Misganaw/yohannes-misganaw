@@ -19,9 +19,9 @@ I'm a **full-stack developer** skilled in building scalable, efficient, and user
   <a href="https://instagram.com/pr_jo_" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/900px-Instagram_logo_2022.svg.png?20220518162235" width="36" height="36" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/yohannes-misganaw" target="_blank" rel="noreferrer">
+  <!--- <a href="https://linkedin.com/in/yohannes-misganaw" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/384px-Linkedin_icon.svg.png?20110609134306" width="36" height="36" alt="LinkedIn" />
-  </a>
+  </a>-->
   <a href="https://x.com/Yohannes_Mg" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/640px-X_logo_2023.svg.png" width="36" height="36" alt="X" />
   </a>
