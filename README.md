@@ -7,9 +7,9 @@ I'm a **full-stack developer** skilled in building scalable, efficient, and user
 ---
 
 ### 🌟 Skills & Technologies:
-- **Frontend**: React, Tailwind CSS, JavaScript/TypeScript ... 
-- **Backend**: Firebase, MySQL, MongoDB, Node.js ...
-- **Tools**: Git, Vite, VS Code ...
+- **Frontend**: React, Nextjs, Tailwind CSS, JavaScript/TypeScript ... 
+- **Backend**: Drizzel, Firebase, MySQL, MongoDB, Node.js ...
+- **Tools**: Git, VS Code ...
 - **Interests**: UI/UX design, performance optimization, and integrating cutting-edge APIs 
 
 ---
@@ -341,9 +341,6 @@ I'm a **full-stack developer** skilled in building scalable, efficient, and user
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yohannes-Misganaw&theme=tokyonight&hide_border=false" alt="Streak Stats" />
-</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes-Misganaw&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
