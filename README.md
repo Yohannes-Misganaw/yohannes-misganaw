@@ -237,7 +237,7 @@ I'm a **full-stack developer** skilled in building scalable, efficient, and user
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
       width="36"
       height="36"
       alt="Next.js"
